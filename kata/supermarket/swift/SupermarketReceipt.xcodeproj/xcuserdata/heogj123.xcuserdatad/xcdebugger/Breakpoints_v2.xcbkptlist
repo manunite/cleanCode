@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FB595CE2-D1BD-4981-96E4-E7E2117F07B1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F630B107-EDAF-48FE-BA36-1F0DA4E2257F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SupermarketReceiptTests/SupermarketReceiptTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "test_buy_five_get_one_free()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F377427-6078-4AD1-8558-26C8F79D2986"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SupermarketReceipt/ShoppingCart.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "handleOffers(receipt:offers:catalog:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8F377427-6078-4AD1-8558-26C8F79D2986 - 7671e56efe92b6c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((offset: Swift.Int, element: (key: SupermarketReceipt.Product, value: Swift.Double))) -&gt; () in SupermarketReceipt.ShoppingCart.handleOffers(receipt: SupermarketReceipt.Receipt, offers: Swift.Dictionary&lt;SupermarketReceipt.Product, SupermarketReceipt.Offer&gt;, catalog: SupermarketReceipt.SupermarketCatalog) -&gt; ()"
+                  moduleName = "SupermarketReceipt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/heogj123/workspace/SupermarketReceipt-Refactoring-Kata/swift/SupermarketReceipt/ShoppingCart.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "767">
+               </Location>
+               <Location
+                  uuid = "8F377427-6078-4AD1-8558-26C8F79D2986 - 7671e56efe92b6c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((offset: Swift.Int, element: (key: SupermarketReceipt.Product, value: Swift.Double))) -&gt; () in SupermarketReceipt.ShoppingCart.handleOffers(receipt: SupermarketReceipt.Receipt, offers: Swift.Dictionary&lt;SupermarketReceipt.Product, SupermarketReceipt.Offer&gt;, catalog: SupermarketReceipt.SupermarketCatalog) -&gt; ()"
+                  moduleName = "SupermarketReceipt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/heogj123/workspace/SupermarketReceipt-Refactoring-Kata/swift/SupermarketReceipt/ShoppingCart.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "1055">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
